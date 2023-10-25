@@ -1,6 +1,6 @@
-train: ..datasets/Dataset/images/train/ 
-val:  ..datasets/Dataset/images/val/
-test: ..datasets/Dataset/images/test/
+train: ..dataset/Dataset/images/train/ 
+val:  ..dataset/Dataset/images/val/
+test: ..dataset/Dataset/images/test/
 
 # number of classes
 nc: 4
