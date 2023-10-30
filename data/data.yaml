@@ -1,4 +1,4 @@
-train: /kaggle/input/dataset/Dataset
+train: /kaggle/input/dataset/Dataset/images/train
 val:  /kaggle/input/dataset/Dataset/images/val/
 test: /kaggle/input/dataset/Dataset/images/test/
 
