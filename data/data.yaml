@@ -3,7 +3,7 @@ val:  /kaggle/input/dataset/Dataset/images/val/
 test: /kaggle/input/dataset/Dataset/images/test/
 
 # number of classes
-nc: 4
+nc: 7
 
 # class names
-names: ["chair","table", "door","stairs"]
+names: ["chair","table", "door","stairs","wardrobe","bed","commode"]
