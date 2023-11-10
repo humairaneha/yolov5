@@ -6,12 +6,6 @@ test: /kaggle/input/datasetnew/Formatted/images/test/
 nc: 7
 
 # class names
-names: 
-0: chair
-1: table
-2: door
-3: stairs
-4: wardrobe
-5: bed
-6: commode
+names: ["chair","table", "door","stairs","wardrobe","bed","commode"]
+
 
