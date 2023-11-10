@@ -1,6 +1,6 @@
-train: /kaggle/input/dataset/Dataset/images/train
-val:  /kaggle/input/dataset/Dataset/images/val/
-test: /kaggle/input/dataset/Dataset/images/test/
+train: /kaggle/input/datasetnew/Formatted/images/train/
+val:  /kaggle/input/datasetnew/Formatted/images/val/
+test:/kaggle/input/datasetnew/Formatted/images/test/
 
 # number of classes
 nc: 7
