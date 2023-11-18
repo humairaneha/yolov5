@@ -1,11 +1,11 @@
-train: /kaggle/input/datasetnew/Dataset/images/train
-val:  /kaggle/input/datasetnew/Dataset/images/val
-test: /kaggle/input/datasetnew/Dataset/images/test
+train: /kaggle/input/final-dataset/Final Dataset/images/train
+val: /kaggle/input/final-dataset/Final Dataset/images/val
+test: /kaggle/input/final-dataset/Final Dataset/images/train
 
 # number of classes
-nc: 7
+nc: 8
 
 # class names
-names: ["chair","table", "door","stairs","wardrobe","bed","commode"]
+names: ["chair","table", "door","stairs","wardrobe","bed","commode","currency"]
 
 
